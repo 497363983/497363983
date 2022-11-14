@@ -39,7 +39,7 @@
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=497363983&layout=compact&theme=dark&card_width=500&hide_border=true&bg_color=171b21"
         media="(prefers-color-scheme: dark)" />
     <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=497363983&layout=compact&card_width=500&hide_border=true"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=497363983&layout=compact&card_width=500&hide_border=true&bg_color=f6f8fa"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=497363983&layout=compact&card_width=500&hide_border=true" />
