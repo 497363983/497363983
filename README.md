@@ -52,7 +52,14 @@
 </tr>
 </table>
 <img src="https://activity-graph.herokuapp.com/graph?username=497363983&theme=github&custom_title=Contribution%20Graph" />
+<picture>
+    <source
+        srcset="/profile-3d-contrib/profile-night-green.svg"
+        media="(prefers-color-scheme: dark)" />
+    <source
+        srcset="/profile-3d-contrib/profile-green.svg"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img
+        src="/profile-3d-contrib/profile-green.svg" />
+</picture>
 
-<a href="https://github.com/yoshi389111/github-profile-3d-contrib">
-    <img src="/profile-3d-contrib/profile-night-green.svg" />
-</a>
