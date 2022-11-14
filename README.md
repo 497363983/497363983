@@ -1,6 +1,6 @@
 <h2>About Me</h2>
 <ul>
-    <li>:school: Zhejiag University of technology</li>
+    <li>:school: Studying at Zhejiang University of Technology</li>
     <li>:school_satchel: An undergraduate student majoring in biological engineering</li>
 </ul>
 <h2>Github Stats</h2>
