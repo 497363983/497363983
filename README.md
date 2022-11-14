@@ -3,6 +3,23 @@
     <li>:school: Studying at Zhejiang University of Technology</li>
     <li>:school_satchel: An undergraduate student majoring in biological engineering</li>
 </ul>
+<h2>Tech Stack</h2>
+<div>
+<a href="https://developer.mozilla.org/en-US/docs/learn/JavaScript">
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+</a>
+<a href="https://vuejs.org/">
+<img src="https://img.shields.io/badge/-VUEJS-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
+</a>
+<a href="https://www.python.org/">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+</a>
+<a href="https://www.php.net/">
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" />
+</a>
+
+</div>
+
 <h2>Github Stats</h2>
 <br/>
 <div align="center">
