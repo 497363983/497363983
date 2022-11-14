@@ -4,6 +4,7 @@
     <li>:school_satchel: An undergraduate student majoring in biological engineering</li>
 </ul>
 <h2>Github Stats</h2>
+<br/>
 <div align="center">
 <picture>
     <source
@@ -15,6 +16,7 @@
     <img src="https://streak-stats.demolab.com?user=497363983&theme=default" />
 </picture>
 </div>
+<br/>
 <table>
 <tr>
 <td rowspan="2">
