@@ -1,4 +1,8 @@
-<h1></h1>
+<h1>About me</h1>
+<ul>
+    <li>:school: Zhejiag University of technology</li>
+    <li>:school_satchel: An undergraduate student majoring in biological engineering</li>
+</ul>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -19,7 +23,7 @@
 <td  colspan="1">
 <picture>
     <source
-        srcset="https://github-readme-stats.vercel.app/api?username=497363983&show_icons=true&theme=dark&card_width=500&custom_title=GitHub%20Stats&hide_border=true"
+        srcset="https://github-readme-stats.vercel.app/api?username=497363983&show_icons=true&theme=dark&card_width=500&custom_title=GitHub%20Stats&hide_border=true&bg_color=0e1116"
         media="(prefers-color-scheme: dark)" />
     <source
         srcset="https://github-readme-stats.vercel.app/api?username=497363983&show_icons=true&card_width=500&custom_title=GitHub%20Stats&hide_border=true"
@@ -32,7 +36,7 @@
 <td colspan="1">
 <picture>
     <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=497363983&layout=compact&theme=dark&card_width=500&hide_border=true"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=497363983&layout=compact&theme=dark&card_width=500&hide_border=true&bg_color=171b21"
         media="(prefers-color-scheme: dark)" />
     <source
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=497363983&layout=compact&card_width=500&hide_border=true"
