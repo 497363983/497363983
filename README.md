@@ -26,6 +26,9 @@
     <a href="https://www.electronjs.org/">
         <img src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=Electron&logoColor=white" />
     </a>
+    <a href="https://git-scm.com/">
+        <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
+    </a>
     <a>
         <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
     </a>
