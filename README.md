@@ -1,18 +1,20 @@
-<h1>About me</h1>
+<h2>About Me</h2>
 <ul>
     <li>:school: Zhejiag University of technology</li>
     <li>:school_satchel: An undergraduate student majoring in biological engineering</li>
 </ul>
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Github Stats</h2>
+<div align="center">
+<picture>
+    <source
+        srcset="https://streak-stats.demolab.com?user=497363983&theme=dark"
+        media="(prefers-color-scheme: dark)" />
+    <source
+        srcset="https://streak-stats.demolab.com?user=497363983&theme=default"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://streak-stats.demolab.com?user=497363983&theme=default" />
+</picture>
+</div>
 <table>
 <tr>
 <td rowspan="2">
