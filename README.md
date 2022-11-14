@@ -53,13 +53,13 @@
 </table>
 <picture>
     <source
-        srcset="[/profile-3d-contrib/profile-night-rainbow.svg](https://activity-graph.herokuapp.com/graph?username=497363983&theme=github-dark&custom_title=Contribution%20Graph)"
+        srcset="https://activity-graph.herokuapp.com/graph?username=497363983&theme=github-dark&custom_title=Contribution%20Graph"
         media="(prefers-color-scheme: dark)" />
     <source
-        srcset="[/profile-3d-contrib/profile-green.svg](https://activity-graph.herokuapp.com/graph?username=497363983&theme=github-light&custom_title=Contribution%20Graph)"
+        srcset="https://activity-graph.herokuapp.com/graph?username=497363983&theme=github-light&custom_title=Contribution%20Graph"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img
-        src="[/profile-3d-contrib/profile-green.svg](https://activity-graph.herokuapp.com/graph?username=497363983&theme=github&custom_title=Contribution%20Graph)" />
+        src="https://activity-graph.herokuapp.com/graph?username=497363983&theme=github&custom_title=Contribution%20Graph" />
 </picture>
 <img src="https://activity-graph.herokuapp.com/graph?username=497363983&theme=github&custom_title=Contribution%20Graph" />
 <picture>
