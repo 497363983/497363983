@@ -17,6 +17,12 @@
 <a href="https://www.php.net/">
 <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" />
 </a>
+<a href="https://www.electronjs.org/">
+<img src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=Electron&logoColor=white" />
+</a>
+<a>
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=white" />
+</a>
 
 </div>
 
