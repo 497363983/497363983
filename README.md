@@ -107,3 +107,6 @@
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="/profile-3d-contrib/profile-green.svg" />
 </picture>
+<div>
+<img src="https://visitor-badge.glitch.me/badge?page_id=497363983" />
+</div>
