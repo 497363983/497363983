@@ -54,7 +54,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=497363983&theme=github&custom_title=Contribution%20Graph" />
 <picture>
     <source
-        srcset="/profile-3d-contrib/profile-night-green.svg"
+        srcset="/profile-night-rainbow.svg"
         media="(prefers-color-scheme: dark)" />
     <source
         srcset="/profile-3d-contrib/profile-green.svg"
