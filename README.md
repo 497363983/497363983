@@ -6,8 +6,8 @@
 
 <h2>About Me</h2>
 <ul>
-    <li>:school: Studying at Zhejiang University of Technology</li>
-    <li>:school_satchel: An undergraduate student majoring in biological engineering</li>
+    <li>:school: Master's degree in East China University of Science and Technology</li>
+    <li>:mortar_board: Undergraduate degree from Zhejiang University of Technology</li>
 </ul>
 <h2>Tech Stack</h2>
 <div>
